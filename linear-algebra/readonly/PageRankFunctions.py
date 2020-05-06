@@ -1,5 +1,4 @@
 import numpy as np
-import numpy.linalg as la
 
 np.set_printoptions(suppress=True)
 
