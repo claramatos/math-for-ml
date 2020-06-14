@@ -19,11 +19,11 @@ specialization by Imperial College of London on [Coursera](https://www.coursera.
 
 [The Sandpit - Part 2](https://github.com/claramatos/math-for-ml/blob/master/multivariate-calculus/TheSandpitPart2.ipynb)
 
-Backpropagation
+[Backpropagation](https://github.com/claramatos/math-for-ml/blob/master/multivariate-calculus/Backpropagation.ipynb)
 
 Gradient descent in a sandpit
 
-Fitting the distribution of heights data
+[Fitting the distribution of heights data](https://github.com/claramatos/math-for-ml/blob/master/multivariate-calculus/FittingTheDistributionOfHeightsData.ipynb)
 
 ## PCA
 
